@@ -1,6 +1,6 @@
 ### Hi there, I'm Kemuel Toledo 👋
 
-I'm a Lead Engineer/Technical Lead with a vast history of working with modern tech stacks to build, deploy, and optimize scalable systems. My journey has taken me through various roles where I've been able to hone my skills in Golang, .NET, PHP, and frontend frameworks like Vue and Angular. I'm a strong advocate for CI/CD transformations and have successfully spearheaded migrations to Microservices architecture, boosting operational efficiency and system resilience.
+I'm a Software Engineer with a vast history of working with modern tech stacks to build, deploy, and optimize scalable systems. My journey has taken me through various roles where I've been able to hone my skills in Golang, .NET, PHP, and frontend frameworks like Vue and Angular. I'm a strong advocate for CI/CD transformations and have successfully spearheaded migrations to Microservices architecture, boosting operational efficiency and system resilience.
 
 My passion lies in not just coding, but in orchestrating containerized applications using Kubernetes across major cloud platforms like AWS, Azure, and GCP, and mentoring teams to adopt and excel in modern development practices. I believe in continuous learning and sharing knowledge, and I'm always on the lookout for new technologies that can drive innovation and improve efficiency.
 
